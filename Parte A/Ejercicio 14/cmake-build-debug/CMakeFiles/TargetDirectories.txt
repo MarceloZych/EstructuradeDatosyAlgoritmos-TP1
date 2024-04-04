@@ -1,0 +1,3 @@
+C:/Users/marce/CLionProjects/Ejercicio 14/cmake-build-debug/CMakeFiles/Ejercicio_14.dir
+C:/Users/marce/CLionProjects/Ejercicio 14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marce/CLionProjects/Ejercicio 14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
